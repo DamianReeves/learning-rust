@@ -1,0 +1,4 @@
+[workspace]
+resolver = "2"
+
+members = ["programming-rust-2nd/ch02-quickreplace"]
